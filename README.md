@@ -1,5 +1,3 @@
-# infectious_diseases_project
-
 # Research Goal:
 The purpose of this project was to analyze disease outbreaks in the US from 1998 to 2015. I strived to answer the following questions:
 
